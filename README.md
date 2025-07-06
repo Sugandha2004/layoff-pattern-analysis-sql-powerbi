@@ -1,18 +1,18 @@
 # 📉 Layoff Patterns Through SQL + Power BI Dashboard
 
-### 🧠 Project Overview
+### Project Overview
 This project analyzes global layoff trends using SQL to uncover patterns by company, industry, year, and location. The insights were further visualized using Power BI to create an interactive and intuitive dashboard for decision-makers.
 
 ---
 
-### 🛠 Tools & Technologies
+### Tools & Technologies
 - **SQL:** MySQL (Joins, CTEs, Window Functions, Aggregations)
 - **Power BI:** Dashboard creation, slicers, trend lines, KPI visuals
 - **GitHub:** Project versioning
 
 ---
 
-### 🔍 Business Questions Answered
+### Business Questions Answered
 - Which companies and industries experienced the most layoffs?
 - How did layoffs change over time (monthly/yearly)?
 - Which countries were affected the most?
@@ -20,7 +20,7 @@ This project analyzes global layoff trends using SQL to uncover patterns by comp
 
 ---
 
-### 🧠 SQL Skills Demonstrated
+### SQL Skills Demonstrated
 - Joins between date and industry tables
 - Common Table Expressions (CTEs)
 - `RANK()` and `ROW_NUMBER()` for top company insights
@@ -29,7 +29,7 @@ This project analyzes global layoff trends using SQL to uncover patterns by comp
 
 ---
 
-### 📊 Power BI Dashboard
+### Power BI Dashboard
 An interactive Power BI dashboard was created with:
 - Filters by company, industry, and country
 - Year-over-year trend visualizations
