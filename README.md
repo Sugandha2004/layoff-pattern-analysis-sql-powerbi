@@ -6,16 +6,9 @@ This project analyzes global layoff trends using SQL to uncover patterns by comp
 ---
 
 ### 🛠 Tools & Technologies
-- **SQL:** PostgreSQL / MySQL (Joins, CTEs, Window Functions, Aggregations)
+- **SQL:** MySQL (Joins, CTEs, Window Functions, Aggregations)
 - **Power BI:** Dashboard creation, slicers, trend lines, KPI visuals
-- **Excel:** Initial data cleanup
 - **GitHub:** Project versioning
-
----
-
-### 🗃 Dataset Details
-- SQL_Query:layoff_pattern_analysis.sql
-- Fields include: `Company`, `Industry`, `Country`, `Laid_Off_Count`, `Total_Employees`, `Date`, `% Laid Off`, etc.
 
 ---
 
@@ -42,10 +35,11 @@ An interactive Power BI dashboard was created with:
 - Year-over-year trend visualizations
 - Top 10 companies by total layoffs
 - Bar and line charts to illustrate severity over time
-
-📎 **[View Dashboard Screenshot](dashboard/layoff-dashboard-screenshot.png)**  
-📎 **[Download .pbix File](dashboard/Layoff_Analysis_Dashboard.pbix)**
-
+  
 ---
 
-### 📂 Repository Structure
+### Links and Sources:
+📎Link - https://app.powerbi.com/view?r=eyJrIjoiYTVhMTNhYmQtMjA4ZS00NTBmLTk1NDctYjc4YmUxNzQ4YmMzIiwidCI6ImE2ZGJkZGRlLTU3OTgtNGViYS1hNWE4LTc4ODA3ZTgyZDllYiJ9
+- SQL_Query: layoff_pattern_analysis.sql
+- Presentation -https://www.canva.com/design/DAGoPEZ4DLU/He14iZnc-4jpH0HCOZed7A/view?utm_content=DAGoPEZ4DLU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h263977db72
+- Fields include: `Company`, `Industry`, `Country`, `Laid_Off_Count`, `Total_Employees`, `Date`, `% Laid Off`, etc.
